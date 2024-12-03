@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.body-light {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+.body-dark {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: white;
+  background-color: rgb(29, 29, 29);
+}
+
+main {
+  padding: 1rem;
+}
+
+.paragraph-color {
+  color: red;
+  background-color: black;
+  padding: 1rem;
+}
